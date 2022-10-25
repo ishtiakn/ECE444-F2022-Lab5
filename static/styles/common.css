@@ -24,7 +24,8 @@ h1, h3{
 }
 
 .common-page-form{
-    border-width: 2px solid;
+    border: solid;
+    border-width: 2px;
     border-color: #00204E;
     border-radius: 20px;
     padding: 20px;
