@@ -25,7 +25,7 @@ Screenshot of search pagge and search results:<br />
 
 ## Activity 6
 #### User Story 1
-"As a student, I would like to search for courses by code, title, and keyword with the use of filters for level, campus, faculty, department, major, and minor so that I an quickly find a specific course or group of courses."<br />
+"As a student, I would like to search for courses by code, title, and keyword with the use of filters for level, campus, faculty, department, major, and minor so that I can quickly find a specific course or group of courses."<br />
 <img
   src="screenshots\a6_1.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
